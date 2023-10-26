@@ -80,11 +80,6 @@ app.ts
 - **Table Naming:** Use snake_case for table names. For example, `user_profiles`.
 - **Column Naming:** Use snake_case for column names. For example, `first_name`.
 - **Code Organization:** Define database schemas, models, and queries in separate files for a clean and organized database layer.
-
-### Features
-
-- **Data Persistence:**
-  - Utilize PostgreSQL as the backend database, ensuring data persistence and efficient retrieval.
   
 ## Additional Development Guidelines
 
